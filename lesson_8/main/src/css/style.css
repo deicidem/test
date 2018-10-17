@@ -1,0 +1,33 @@
+body{
+	font-family: Tahoma, sans-serif;
+	font-weight: 700;
+}
+
+.header {
+	margin-bottom: 82px;
+	text-align: center;
+	font-size: 24px;
+	text-transform: uppercase;	
+}
+
+.container {
+	padding-top: 70px;
+}
+
+.text{
+	display: inline-block;
+	width: 122px;
+	height: 34px;
+	margin-bottom: 30px;
+	font-style: 16px;	
+}
+
+.image {
+	min-height: 77px;
+	margin-bottom: 10px;
+}
+
+.col-xs-12, .col-sm-12, .col-md-6, .col-lg-4, .col-xl-2 {
+	display: inline-block;
+	text-align: center;
+}

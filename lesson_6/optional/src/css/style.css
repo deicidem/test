@@ -1,0 +1,57 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Arial", sans-serif;
+	font-size: 14px;
+	background-color: #f6f6f6;
+}
+
+#content {	
+	width: 1009px;
+	height: 503px;	
+	margin: 86px auto;
+	background-color: #fff;
+}
+
+#headphones {
+	display: inline-block;
+	width: 376px;
+	height: 376px;
+	margin: 64px 0 64px 47px;
+}
+
+#text {
+	position: absolute;	
+	display: inline-block;
+	width: 400px;
+	height: 331px;
+	margin: 94px 80px 81px 99px;
+}
+
+button {
+	width: 250px;	
+	height: 50px;	
+	color: #fff;	
+	background-color: #f17448;
+	border-width: 0;	
+}
+
+#heading {
+	margin-top: 0;
+	margin-bottom: 31px;
+}
+
+#price {
+	margin-top: 55px;
+	margin-bottom: 23px;
+}
+
+#number {
+	margin-bottom: 59px;
+	font-weight: 500;
+	font-size: 23px;	
+}
+
+

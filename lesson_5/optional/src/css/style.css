@@ -1,0 +1,62 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	text-align: center;
+}
+
+body {
+	background-color: blanchedalmond
+}
+
+.line-through {
+	text-decoration: line-through;
+}
+
+.underlined {
+	text-decoration: underline;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.note {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+
+img {
+	height: 300px;
+	border: 7px ridge #fff;
+}
+
+#content {
+	position: fixed;
+	right: 10px;
+	background-color: white;
+	border: 3px ridge #000;
+}
+
+h1 {
+	color: red;
+}
+
+h2 {
+	color: blue;
+}
+
+h3 {
+	color: blueviolet;
+}
+
+h5 {
+	color: aqua;
+}
+
+span {
+	color: chartreuse;
+}

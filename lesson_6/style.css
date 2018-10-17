@@ -1,0 +1,13 @@
+div.page-container {
+  max-width: 75%;
+  min-width: 960px;
+  margin: 0 auto;
+  padding: 0;
+  }
+
+img {
+  min-width: 960px;
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0;
+  }

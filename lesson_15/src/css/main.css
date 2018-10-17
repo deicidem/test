@@ -1,0 +1,55 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.button {
+  padding: 12px 18px;
+  vertical-align: middle;
+  background-color: #ff9d00;
+  color: #ffffff;
+  border: 0px solid transparent;
+  border-radius: 5px;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+}
+
+.button:hover {
+  background-color: #ffb133;
+  cursor: pointer;
+}
+
+.button img {
+  vertical-align: middle;
+  margin-right: 7px;
+}
+
+.header {
+  padding: 15px 0;
+}
+
+.header-contacts {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header-contacts__phone {
+  margin-right: 30px;
+  color: #373737;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 22px;
+  text-transform: uppercase;
+}
